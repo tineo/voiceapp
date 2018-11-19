@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267435657051",
+    "firebase_url": "https://voicespeech-ec9b2.firebaseio.com",
+    "project_id": "voicespeech-ec9b2",
+    "storage_bucket": "voicespeech-ec9b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267435657051:android:5869ad610f99c533",
+        "android_client_info": {
+          "package_name": "bz.rxla.flutter.speechrecognitionexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267435657051-o18dkplk9qvqcag8gglt1fo20ltavafq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdhVgs38YNiAUZITl_21uTVhgrDBvjZ9g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
